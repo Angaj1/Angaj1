@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Angaj Mohanan  
 
-<!--
-**Angaj1/Angaj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Computer Science Student** | AI, Machine Learning & Cybersecurity Enthusiast  
+🔍 Currently exploring **Data Science, Machine Learning & Software Development**  
+📚 Learning **Python, Flutter & Cybersecurity Concepts**  
+🎯 Future Goals: Build AI-powered applications & contribute to open-source projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Scikit-Learn)  
+- **Data Science & Machine Learning:** Data Analysis, Model Training, Visualization  
+- **App Development:** Flutter (Beginner)  
+- **Cybersecurity:** Fundamentals & Best Practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](your-instagram-url)  
+www.linkedin.com/in/angaj-mohanan
