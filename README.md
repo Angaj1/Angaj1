@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Angaj Mohanan  
 
 💻 **Aspiring Computer Science Student** | AI, Machine Learning & Cybersecurity Enthusiast  
-🔍 Currently exploring **Data Science, Machine Learning & Software Development**  
+🔍 Currently exploring **Data Science, Machine Learning & Software Development** 
 📚 Learning **Python, Flutter & Cybersecurity Concepts**  
 🎯 Future Goals: Build AI-powered applications & contribute to open-source projects  
 
